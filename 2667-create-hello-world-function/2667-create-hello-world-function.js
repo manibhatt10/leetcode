@@ -1,5 +1,5 @@
-function createHelloWorld() {
-    return function() {
-        return "Hello World";
-    };
+function createHelloWorld(){
+    return function myFunction(){
+        return "Hello World"
+    }
 }
